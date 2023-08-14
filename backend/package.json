@@ -1,0 +1,14 @@
+{
+  "name": "copdf-backend",
+  "version": "1.0.0",
+  "description": "backend of copdf (manage socket connection, make communication of cursor position data)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coolwind0202",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
